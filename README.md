@@ -1,4 +1,3 @@
-# aboutme
 <h2 align="left">Hi 👋! My name is Ceyda and I'm a computer engineer from Konya, Turkiye</h2>
 
 ###
